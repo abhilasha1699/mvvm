@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mvvm.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="LabelKey" TargetType="Label">
+                <Setter Property="LineBreakMode" Value="NoWrap"/>
+                <Setter Property="Text" Value="0"/>
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="BackgroundColor" Value="DarkSlateGray"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="HorizontalTextAlignment" Value="End"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
+            </Style>
+
+            <Style x:Key="ClearKey" TargetType="Button">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="34"/>
+                <Setter Property="BackgroundColor" Value="CadetBlue"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="Text" Value="CLEAR"/>
+            </Style>
+
+            <Style x:Key="EqualKey" TargetType="Button">
+                <Setter Property="Text" Value="="/>
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="BackgroundColor" Value="Orange"/>
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="BorderColor" Value="Black"/>
+            </Style>
+
+            <Style x:Key="OperatorKey" TargetType="Button">
+                <Setter Property="FontSize" Value="34"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="BackgroundColor" Value="Aqua"/>
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="BorderColor" Value="Gray"/>
+            </Style>
+
+            <Style x:Key="NumberKey" TargetType="Button">
+                <Setter Property="FontSize" Value="32"/>
+                <Setter Property="BackgroundColor" Value="Black"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BorderColor" Value="Black"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

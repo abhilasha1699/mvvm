@@ -1,0 +1,14 @@
+C:\Users\ANIKET\source\repos\mvvm\mvvm\bin\Debug\netstandard2.0\mvvm.deps.json
+C:\Users\ANIKET\source\repos\mvvm\mvvm\bin\Debug\netstandard2.0\mvvm.dll
+C:\Users\ANIKET\source\repos\mvvm\mvvm\bin\Debug\netstandard2.0\ref\mvvm.dll
+C:\Users\ANIKET\source\repos\mvvm\mvvm\bin\Debug\netstandard2.0\mvvm.pdb
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.csprojAssemblyReference.cache
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.AssemblyInfoInputs.cache
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.AssemblyInfo.cs
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.csproj.CoreCompileInputs.cache
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.dll
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\ref\mvvm.dll
+C:\Users\ANIKET\source\repos\mvvm\mvvm\obj\Debug\netstandard2.0\mvvm.pdb
